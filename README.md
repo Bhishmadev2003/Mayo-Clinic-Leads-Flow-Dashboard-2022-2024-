@@ -67,7 +67,6 @@ Mayo-Clinic-Leads-Flow-Dashboard/
 ## 🌱 Learning Outcomes
 
 - Gained hands-on experience with **Power BI reporting**  
-- Practiced DAX for real-world KPIs and calculated metrics  
 - Developed a clean, stakeholder-friendly UI  
 - Strengthened storytelling with data
 
