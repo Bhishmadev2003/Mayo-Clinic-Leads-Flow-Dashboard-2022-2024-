@@ -51,8 +51,6 @@ Mayo-Clinic-Leads-Flow-Dashboard/
 ├── MayoClinic_Leads_Dataset.xlsx
 ├── Mayo_Leads_Dashboard.pbix
 ├── README.md
-└── Dashboard Screenshots/
-    └── (Insert PNG/JPG files)
 ```
 
 ---
