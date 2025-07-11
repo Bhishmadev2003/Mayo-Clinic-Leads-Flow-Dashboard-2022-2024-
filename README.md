@@ -19,7 +19,6 @@ To build a comprehensive dashboard that helps stakeholders at Mayo Clinic:
 
 - **Microsoft Power BI**  
 - **Excel** (Data Cleaning & Preprocessing)  
-- **DAX** (Data Analysis Expressions)  
 - **Data Visualization** Best Practices
 
 ---
