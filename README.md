@@ -1,77 +1,61 @@
-# 📈 Mayo Clinic Leads Flow Dashboard (2022–2024)
+# Mayo Clinic Leads Flow Dashboard (2022–2024)
 
-An interactive Power BI dashboard project analyzing **lead flow trends at Mayo Clinic** from 2022 to 2024. The project provides visual insights into monthly leads, conversion rates, sources, and performance metrics to support data-driven decision-making.
-
----
-
-## 🎯 Project Objective
-
-To build a comprehensive dashboard that helps stakeholders at Mayo Clinic:
-
-- Track lead volume and flow over time  
-- Analyze conversion efficiency by channel  
-- Identify high-performing sources and months  
-- Enable strategic planning using historical trends
+This project presents an interactive Power BI dashboard analyzing **lead flow data for Mayo Clinic** from 2022 to 2024. The dashboard enables stakeholders to track trends in lead volume, source performance, and conversion efficiency, supporting data-driven marketing and strategic planning.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Objective
 
-- **Microsoft Power BI**  
-- **Excel** (Data Cleaning & Preprocessing)  
-- **Data Visualization** Best Practices
+To design a comprehensive visual analytics tool that helps stakeholders:
 
----
-
-## 📊 Dashboard Features
-
-- Monthly lead flow trends (2022–2024)  
-- Source-wise lead generation comparison  
-- Conversion funnel & ratio visualization  
-- KPI Cards for Total Leads, Conversions, & More  
-- Interactive slicers for Year & Source
+- Monitor lead flow and volume over time
+- Evaluate conversion performance by lead source
+- Identify top-performing channels and time periods
+- Leverage historical patterns for future planning
 
 ---
 
-## 🧠 Key Insights (Sample)
+## Tools & Technologies
 
-- Noticed peak in leads during Q2 each year  
-- Organic and referral sources had highest conversion efficiency  
-- Email campaigns showed declining trend post-2023
-
-> 📌 *(Add actual insights here based on your dashboard findings)*
+- **Power BI** – Dashboard development and visual storytelling  
+- **Excel** – Data cleaning and preprocessing  
+- **Data Visualization** – Business-friendly visual design best practices
 
 ---
 
-## 📎 Files Included
+## Dashboard Highlights
 
-```
-Mayo-Clinic-Leads-Flow-Dashboard/
-│
-├── MayoClinic_Leads_Dataset.xlsx
-├── Mayo_Leads_Dashboard.pbix
-├── README.md
-```
+- Time-series trends in monthly lead volume (2022–2024)  
+- Comparison of lead sources (e.g., organic, referral, email)  
+- Conversion funnel and rate breakdown  
+- KPI cards for Total Leads, Conversions, and Source Metrics  
+- Interactive filters for Year and Source selection
 
 ---
 
-## 🖼️ Sample Screenshot
+## Sample Insights (Illustrative)
 
-<img width="1423" height="793" alt="image" src="https://github.com/user-attachments/assets/e7659df1-64a3-46bc-a075-5a6916abf594" />
-
-
----
-
-## 🌱 Learning Outcomes
-
-- Gained hands-on experience with **Power BI reporting**  
-- Developed a clean, stakeholder-friendly UI  
-- Strengthened storytelling with data
+- Lead volume peaked consistently during Q2 across years  
+- Organic and referral sources showed the highest conversion rates  
+- Email campaign effectiveness declined after early 2023
 
 ---
 
-## 🔗 Connect with Me
+## Dashboard Preview
+
+<img width="1423" height="793" alt="Mayo Clinic Lead Dashboard Preview" src="https://github.com/user-attachments/assets/e7659df1-64a3-46bc-a075-5a6916abf594" />
+
+---
+
+## Learning Outcomes
+
+- Developed stakeholder-focused Power BI dashboards  
+- Practiced time-series and funnel analysis  
+- Applied storytelling principles for executive reporting
+
+---
+
+## Connect with Me
 
 **Bhishmadev Naskar**  
-📧 [LinkedIn](https://www.linkedin.com/in/bhishmadevnaskar/)
-
+📧 [LinkedIn](https://www.linkedin.com/in/bhishmadev-naskar)
